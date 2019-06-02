@@ -1,4 +1,4 @@
-sudo -s
+#!/bin/sh
 cd /tmp/kopit/
 while (true)
 do
@@ -13,4 +13,5 @@ else
 fi
 sleep 10
 done;
+
 
